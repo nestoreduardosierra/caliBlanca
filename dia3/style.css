@@ -1,0 +1,32 @@
+.main-container {
+    heigth: 1000px;
+    background: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+}
+
+.is-blueviolet {
+    background: blueviolet;
+}
+
+.is-red {
+    background: red;
+}
+
+.is-yellow {
+    background: yellow;
+}
+
+.is-orange {
+    background: orange;
+}
+
+is.black {
+    background: black;
+}
